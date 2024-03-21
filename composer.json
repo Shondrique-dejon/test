@@ -1,0 +1,11 @@
+{
+    "name": "shoni/opdracht_6a",
+    "require": {
+        "phpunit/phpunit": "^9.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Opdracht6b\\": "src/"
+        }
+    }
+}
